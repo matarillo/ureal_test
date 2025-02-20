@@ -1,0 +1,2 @@
+javac com/android/calculator2/evaluation/UnifiedRealVsFpTimer.java
+java com.android.calculator2.evaluation.UnifiedRealVsFpTimer
